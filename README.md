@@ -1,8 +1,6 @@
 
 
-the SalonApp is a complete Beauty & Wellness Marketplace App
-
-A comprehensive iOS application built with SwiftUI for connecting clients with multiple types of beauty professionals, including nail artists, hair stylists, massage therapists, and spa specialists. Provides a complete ecosystem for clients, professionals, and administrators.
+The SalonApp is a comprehensive iOS application built with SwiftUI for connecting clients with multiple types of beauty professionals, including nail artists, hair stylists, massage therapists, and spa specialists. Provides a complete ecosystem for clients, professionals, and administrators.
 
 ---
 
