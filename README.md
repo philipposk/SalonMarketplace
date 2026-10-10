@@ -153,7 +153,7 @@ The app supports multiple user roles with different permissions:
 
 ## 📞 Support
 
-For support, email [phktistakis@gmail.com](mailto:phktistakis@gmail.com) or open an issue in this repository.
+For support, email [dev@6x7.gr](mailto:dev@6x7.gr) or open an issue in this repository.
 
 ---
 
